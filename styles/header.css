@@ -32,3 +32,6 @@
 .conteiner__botao:checked~.lista__menu{
     display: block;
 }
+.lista-menu__titulo{
+font-weight: 700;
+}
