@@ -30,7 +30,7 @@
     
 }
 .conteiner__botao:checked~.lista__menu{
-    display: block;
+    display: none;
 }
 .lista-menu__titulo{
 font-weight: 700;
