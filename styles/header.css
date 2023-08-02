@@ -18,6 +18,7 @@
 .conteiner{
     display: flex;
     justify-content: space-between;
+    align-items: center;
 }
 
 .conteiner__imagem{
@@ -48,4 +49,16 @@ display: none;
 
 .lista__menu-link{
     color: var(--roxo);
+}
+.cotainer__titulo{
+    display: none;
+}
+@media screen and (min-width:1024px){
+
+    .container__titulo{
+    display: block;
+    font-family: var(--fonte-secundaria);
+    font-size: 30px;
+    font-weight: 300;
+  }
 }
