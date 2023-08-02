@@ -60,5 +60,11 @@ display: none;
     font-family: var(--fonte-secundaria);
     font-size: 30px;
     font-weight: 300;
-  }
-}
+
+    }
+    .container__titulo--negrito{
+        font-weight: 400;
+    }
+
+    }
+    
