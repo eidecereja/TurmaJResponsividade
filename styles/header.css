@@ -83,5 +83,11 @@ display: none;
         color: var(--preto);
         text-decoration: none;
     }
+    .conteiner__imagem-transparente{
+        display: none;
+    }
+    .cabecalho__menu{
+        display: none;
+    }
     }
     
