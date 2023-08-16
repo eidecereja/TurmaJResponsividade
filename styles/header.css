@@ -106,10 +106,10 @@ display: none;
             color: var(--preto);}
 
         .conteiner__texto{
-            display:block;
+            display: block;
                 }
                 
-        }    
+           
         .cabeçalho{
             padding: 0 2em;
         }
@@ -118,7 +118,7 @@ display: none;
         }
     
         .conteiner__texto{
-        display:none;
+          display:none;
         }
-        
+    }
     
